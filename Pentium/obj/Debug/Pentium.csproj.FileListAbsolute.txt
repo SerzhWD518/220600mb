@@ -1,0 +1,10 @@
+C:\Users\vilba\source\repos\Pentium\Pentium\bin\Debug\Pentium.exe.config
+C:\Users\vilba\source\repos\Pentium\Pentium\bin\Debug\Pentium.exe
+C:\Users\vilba\source\repos\Pentium\Pentium\bin\Debug\Pentium.pdb
+C:\Users\vilba\source\repos\Pentium\Pentium\obj\Debug\Pentium.csprojResolveAssemblyReference.cache
+C:\Users\vilba\source\repos\Pentium\Pentium\obj\Debug\Pentium.Form1.resources
+C:\Users\vilba\source\repos\Pentium\Pentium\obj\Debug\Pentium.Properties.Resources.resources
+C:\Users\vilba\source\repos\Pentium\Pentium\obj\Debug\Pentium.csproj.GenerateResource.Cache
+C:\Users\vilba\source\repos\Pentium\Pentium\obj\Debug\Pentium.csproj.CoreCompileInputs.cache
+C:\Users\vilba\source\repos\Pentium\Pentium\obj\Debug\Pentium.exe
+C:\Users\vilba\source\repos\Pentium\Pentium\obj\Debug\Pentium.pdb
